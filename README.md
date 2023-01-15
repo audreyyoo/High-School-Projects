@@ -4,7 +4,7 @@ Courses:
 
 :pushpin: Happy-Bils
 
-:pushpin: Tip Calculator
+:pushpin: Mini Project: Tip Calculator
 
 2. Website Development (2022-2023)
 
